@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+
+html, body, #root {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+	font-family: "Raleway", serif !important;
+}
+
+
+::-webkit-scrollbar {
+	width: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+	background: transparent;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+	background: #142545;
+	transition: all 0.3s ease-in-out;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+	background: #0d182c;
+  }

@@ -1,0 +1,5 @@
+declare module 'static/*.png'
+declare module 'static/*.svg'
+declare module 'static/*.jpg'
+declare module 'static/*.jpeg'
+declare module 'static/*.pdf'
